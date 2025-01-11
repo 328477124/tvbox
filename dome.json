@@ -1,5 +1,6 @@
 {
-  "spider": "https://gitee.com/fuscloud/tvbox/raw/master/jar/custom_spider.jar",
+  "spider": "./jar/custom_spider.jar;md5;ae197922b38eacfee836880911b98a29",
+
   "lives": [
     {
       "name": "范明明IPV6",
