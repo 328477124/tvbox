@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/custom_spider.jar",
+  "spider": "./jar/my_spider.jar;md5;cebda6e640354712ad58cd1d511eebe1",
 
   "lives": [
     {
@@ -21,7 +21,6 @@
   "wallpaper": "https://bing.img.run/rand.php",
 
   "sites": [
-    {"key":"csp_AvDog","name":"Av狗","type":3,"api":"csp_AvDog","searchable":1,"playerType":1,"timeout":120},
     {"key":"csp_Xl720","name":"磁力 | 迅雷电影天堂","type":3,"api":"csp_Xl720","searchable":1,"playerType":1,"timeout":120},
     {"key":"csp_SixV","name":"磁力 | 新6V电影网","type":3,"api":"csp_SixV","searchable":1,"playerType":1,"timeout":120},
     {"key":"csp_DyGang","name":"磁力 | 电影港","type":3,"api":"csp_DyGang","searchable":1,"playerType":1,"timeout":120},
