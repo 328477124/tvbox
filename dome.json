@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitee.com/fuscloud/tvbox/raw/master/my_spider.jar;md5;6fc8be424f7e2ef15298d7a4cf919a3d",
+  "spider": "./jar/my_spider.jar;md5;6fc8be424f7e2ef15298d7a4cf919a3d",
 
   "lives": [
     {
