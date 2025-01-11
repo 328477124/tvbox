@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitee.com/fuscloud/tvbox/raw/master/custom_spider.jar",
+  "spider": "./jar/custom_spider.jar;md5;cebda6e640354712ad58cd1d511eebe1",
 
   "lives": [
     {
@@ -18,6 +18,7 @@
       ]
     }
   ],
+
   "wallpaper": "https://bing.img.run/rand.php",
 
   "sites": [
@@ -39,12 +40,14 @@
     {"key":"360","name":"影视 | 360","type":3,"api":"csp_SP360","searchable":1},
     {"key":"IQIYI","name":"影视 | IQIYI","type":3,"api":"csp_IQIYI","searchable":1},
     {"key":"MGTV","name":"影视 | MGTV","type":3,"api":"csp_MGTV","searchable":1},
+
     {"key":"drpy_磁力熊","name":"磁力 | 磁力熊[js]","type":3,"api":"https://gitee.com/jahom1009/dr_py/raw/main/libs/drpy2.min.js","ext":"https://gitee.com/jahom1009/dr_py/raw/main/js/磁力熊[磁].js","playerType":1,"timeout":120},
     {"key":"drpy_荐片","name":"影视 | 荐片[js]","type":3,"api":"https://gitee.com/jahom1009/dr_py/raw/main/libs/drpy2.min.js","ext":"https://gitee.com/jahom1009/dr_py/raw/main/js/荐片.js","playerType":1,"timeout":30},
     {"key":"drpy_我的哔哩","name":"合集 | 我的哔哩[js]","type":3,"api":"https://gitee.com/jahom1009/dr_py/raw/main/libs/drpy2.min.js","ext":"https://gitee.com/jahom1009/dr_py/raw/main/js/我的哔哩.js"},
     {"key":"drpy_低端","name":"影视 | 低端[js]","type":3,"api":"https://gitee.com/jahom1009/dr_py/raw/main/libs/drpy2.min.js","ext":"https://gitee.com/jahom1009/dr_py/raw/main/js/ddys.js"},
     {"key":"drpy_两个BT","name":"影视 | 两个BT[js]","type":3,"api":"https://gitee.com/jahom1009/dr_py/raw/main/libs/drpy2.min.js","ext":"https://gitee.com/jahom1009/dr_py/raw/main/js/两个BT.js"},
     {"key":"drpy_怡萱动漫","name":"动漫 | 怡萱[js]","type":3,"api":"https://gitee.com/jahom1009/dr_py/raw/main/libs/drpy2.min.js","ext":"https://gitee.com/jahom1009/dr_py/raw/main/js/怡萱动漫.js"},
+
     {"key":"push_agent","name":"推送(播放页链接或磁力)","type":3,"api":"csp_PushAgent","searchable":0,"playerType":1, "timeout":60}
   ],
 
