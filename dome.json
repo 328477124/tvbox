@@ -1,6 +1,5 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;25d5800a3529feb139b91b1e8a09d56d",
-
+  "spider": "./jar/custom_spider.jar;md5;4d65cb61f1ad027e8e0aa24b1b0c1128",
   "lives": [
     {
       "name": "范明明IPV6",
@@ -22,7 +21,7 @@
   "wallpaper": "https://bing.img.run/rand.php",
 
   "sites": [
-    {"key":"csp_AvDog","name":"AV狗","type":3,"api":"csp_AvDog","searchable":1,"playerType":1,"timeout":120},
+    {"key":"csp_AvDog","name":"AV狗","type":3,"api":"csp_AvDog","searchable":1,"playerType":1,"timeout":120,"ext":"https://e21.avdog-l0615.vip:8888/"},
     {"key":"csp_Xl720","name":"磁力 | 迅雷电影天堂","type":3,"api":"csp_Xl720","searchable":1,"playerType":1,"timeout":120},
     {"key":"csp_SixV","name":"磁力 | 新6V电影网","type":3,"api":"csp_SixV","searchable":1,"playerType":1,"timeout":120},
     {"key":"csp_DyGang","name":"磁力 | 电影港","type":3,"api":"csp_DyGang","searchable":1,"playerType":1,"timeout":120},
