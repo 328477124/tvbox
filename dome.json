@@ -29,6 +29,14 @@
       "changeable": 0
     },
 {
+      "key": "MiMei",
+      "name": "迷妹",
+      "type": 3,
+      "api": "csp_MiMei",
+      "searchable": 1,
+      "changeable": 1
+    },
+{
       "key": "Xlys",
       "name": "修罗✨| 1080P",
       "type": 3,
