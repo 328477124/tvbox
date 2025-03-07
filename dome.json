@@ -29,6 +29,14 @@
       "changeable": 0
     },
 {
+      "key": "AvDog",
+      "name": "av狗",
+      "type": 3,
+      "api": "csp_AvDog",
+      "searchable": 1,
+      "changeable": 1
+    },
+{
       "key": "MiMei",
       "name": "迷妹",
       "type": 3,
