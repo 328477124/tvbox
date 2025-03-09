@@ -37,6 +37,14 @@
       "changeable": 1
     },
 {
+      "key": "PTT",
+      "name": "PTT",
+      "type": 3,
+      "api": "csp_PTT",
+      "searchable": 1,
+      "changeable": 1
+    },
+{
       "key": "MiMei",
       "name": "迷妹",
       "type": 3,
