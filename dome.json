@@ -29,6 +29,15 @@
       "changeable": 0
     },
   {
+    "key": "视觉",
+    "name": "视觉",
+    "type": 3,
+    "api": "https://github.com/JJBJJ/PyramidStore/raw/refs/heads/main/plugin/app/%E8%A7%86%E8%A7%89APP.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+  },
+  {
     "key": "光速",
     "name": "光速",
     "type": 3,
