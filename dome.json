@@ -39,9 +39,9 @@
   },
   {
     "key": "光速",
-    "name": "光速",
+    "name": "三号动漫",
     "type": 3,
-    "api": "https://github.com/JJBJJ/PyramidStore/raw/refs/heads/main/plugin/app/%E5%85%89%E9%80%9FAPP.py",
+    "api": "https://github.com/JJBJJ/PyramidStore/raw/refs/heads/main/plugin/app/%E8%A7%86%E8%A7%89APP.py",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1
