@@ -38,10 +38,10 @@
     "filterable": 1
   },
   {
-    "key": "光速",
-    "name": "三号动漫",
+    "key": "蓝莓短剧",
+    "name": "蓝莓短剧",
     "type": 3,
-    "api": "https://github.com/JJBJJ/PyramidStore/raw/refs/heads/main/plugin/app/%E8%A7%86%E8%A7%89APP.py",
+    "api": "https://gh-proxy.com/github.com/328477124/tvbox/raw/refs/heads/master/py_%E8%93%9D%E8%8E%93%E7%9F%AD%E5%89%A7.py",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1
